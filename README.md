@@ -187,3 +187,7 @@ Zrb is named after `Zaruba`, a powerful support tool from the Garo universe!
 > Madou Ring Zaruba (魔導輪ザルバ, Madōrin Zaruba) is a Madougu which supports bearers of the Garo Armor. [(Garo Wiki | Fandom)](https://garo.fandom.com/wiki/Zaruba)
 
 ![Madou Ring Zaruba on Kouga's Hand](https://raw.githubusercontent.com/state-alchemists/zrb/main/_images/madou-ring-zaruba.jpg)
+
+---
+
+> **Created by Antono**
