@@ -1,2 +1,32 @@
-Last updated: 2026-10-24 18:36:12 WIB
-Last updated: 2026-10-24 20:17:13 WIB
+# zrb
+
+
+
+## 📋 Overview
+
+This repository contains **481 files** and is built with the following technologies:
+
+Python, Docker
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## ✨ Features
+
+- 🐳 Docker support
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Python, Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-24 20:32:41 WIB*
